@@ -12,3 +12,5 @@ Project: High Gear Ratio Evoloid Gear Drive Development
 
 
 The coding for this project was written in LUA programming language, and I utilized ICeSL Modeler and Slicer for the implementation. I was able to generate an STL file using ICeSL Slicer, which could be later used as a G-code provider for FDM printers. Finally, the assembled gear was successfully printed at the designated site.
+
+
