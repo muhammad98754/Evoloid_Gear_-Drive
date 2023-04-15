@@ -9,3 +9,6 @@ Project: High Gear Ratio Evoloid Gear Drive Development
 
 
 •Produced a final gear assembly by generating an STL file using IceSL slicer and printing it using FDM 3D printing technology, demonstrating proficiency in designing and manufacturing complex mechanical systems
+
+
+The coding for this project was written in LUA programming language, and I utilized ICeSL Modeler and Slicer for the implementation. I was able to generate an STL file using ICeSL Slicer, which could be later used as a G-code provider for FDM printers. Finally, the assembled gear was successfully printed at the designated site.
