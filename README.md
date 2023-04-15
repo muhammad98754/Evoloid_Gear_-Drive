@@ -1,4 +1,4 @@
-# Evoloid_Gear_-Drive
+# Evoloid_Gear_-Drive (LUA language)
 3D Printing with IceSL Slicer and Modeler Using LUA Programming
  
  
