@@ -3,10 +3,7 @@
 --Group :Gear_Mechanism_Using_AM
 --Topic :Involute_Gearing:Evoloid Drive with High Gear Ratio
 
---Team members:
---Muhammad safeer(22103086)
---Haider Matin(22102111)
---Murtuza Godil(22103452)
+
 
 --Supervisor:Prof.Dr.Ing.Stefan Scherbarth
 
