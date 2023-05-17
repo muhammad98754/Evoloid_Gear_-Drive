@@ -13,11 +13,28 @@ Project: High Gear Ratio Evoloid Gear Drive Development
 
 The coding for this project was written in LUA programming language, and I utilized ICeSL Modeler and Slicer for the implementation. I was able to generate an STL file using ICeSL Slicer, which could be later used as a G-code provider for FDM printers. Finally, the assembled gear was successfully printed at the designated site.
 
-![2023-05-17 (2)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/6a271d8e-e66b-4aff-9b5f-8a9177651ca3)
-![2023-05-17 (3)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/e8ac1845-ddf7-4242-b98e-330c19bbcefc)
-![2023-05-17 (4)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/0ee3e668-8a29-4834-a059-994c18a337a4)
-![2023-05-17 (5)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/12ac8413-7a35-48f4-8077-6abebba8671e)
-![2023-05-17 (6)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/94d92fc7-ce91-4ee3-8230-b16bd4d2d715)
-![2023-05-17 (7)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/1c6423a6-aaa5-4698-bf14-59d88388d2db)
+                                   Evoloid high gear ratio drive mechanism
+                                   
 ![2023-05-17](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/cef0b1da-dfba-4f18-a4ba-2e23b17c38d1)
+
+                       changing the  tweak,we can rotate the  high gear ratio evoloid drive mechanism
+                       
+![2023-05-17 (2)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/6a271d8e-e66b-4aff-9b5f-8a9177651ca3)
+
+                                    simple spur gear drive mechanism
+                                    
+![2023-05-17 (3)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/e8ac1845-ddf7-4242-b98e-330c19bbcefc)
+
+                               high gear ratio evoloid gear drive assembly
+                               
+![2023-05-17 (4)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/0ee3e668-8a29-4834-a059-994c18a337a4)
+
+![2023-05-17 (6)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/94d92fc7-ce91-4ee3-8230-b16bd4d2d715)
+
+![2023-05-17 (7)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/1c6423a6-aaa5-4698-bf14-59d88388d2db)
+
+              base plate and screw system to make the final assembly which will print using FDM 3D printing system
+              
+![2023-05-17 (5)](https://github.com/muhammad98754/Evoloid_Gear_-Drive/assets/130402856/12ac8413-7a35-48f4-8077-6abebba8671e)
+
 
